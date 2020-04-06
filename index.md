@@ -10,6 +10,7 @@ region: Europe
 auto-migrated: 1
 
 ---
+![Owasp Sevilla](assets/images/event.png =250x)
 
 
 ## OWASP Sevilla
