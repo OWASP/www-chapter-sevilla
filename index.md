@@ -79,8 +79,8 @@ sobre Sistemas Operativos para la privacidad y el anonimato.
   - '' OWASP-Sevilla VIII Edición'' 16/12/2016
 
 **Francisco José Ramírez** nos dío una clase magistral de
-\[<https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>,
-ZAP\], fue un taller increíble en el que nos mostró un caso real de
+[**ZAP**](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), 
+fue un taller increíble en el que nos mostró un caso real de
 **pentesting** con **ZAP**, uno de los grandes proyectos **opensource**
 de **OWASP**.
 
