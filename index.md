@@ -183,7 +183,3 @@ convertido en ritual :-)
 
 Puedes saber más sobre OWASP, sus Principios y Valores y su Código Ético
 en el siguiente enlace: [About OWASP](About_The_Open_Web_Application_Security_Project "wikilink")
-
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:Spain](Category:Spain "wikilink")
