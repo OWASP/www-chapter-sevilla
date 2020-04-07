@@ -145,6 +145,8 @@ Nuestra primera edición fue bastante informal, presentamos el proyecto,
 empezamos a conocernos y nos tomamos unas cervezas, esto último se ha
 convertido en ritual :-)
 
+![Owasp Sevilla](assets/images/owaspReu.png)
+
 # Presentaciones y Documentación
 
 [Fotos de Eventos](https://drive.google.com/drive/folders/0B9pYnCCv7eCiODY0aGMySWNDYXM?usp=sharing)
