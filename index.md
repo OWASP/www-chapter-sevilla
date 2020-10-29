@@ -80,7 +80,7 @@ La automatización de procesos ayuda en la reducción de riesgos, minimiza los e
 
   - '' Analizando Comunicaciones en Dispositivos Moviles '' 07/03/2019
 
-Impartido por nuestro compañero ** Francisco José Ramírez Lopez** 
+Impartido por nuestro compañero **Francisco José Ramírez Lopez** 
 En este taller se verá una breve introducción de como empezar a analizar comunicaciones que realizan las aplicaciones en dispositivos móviles. Para ello vamos a empezar conociendo OWASP mobile y luego en concreto alguno de los controles que nos centramos más en este taller. Iremos paso a paso, explicaremos que es una comunicación SSL y como se puede romper y a continuación iremos incrementando el nivel de dificultad para poder ver las comunicaciones.
 Esto implica conocer cómo funcionan las medidas de protección de SSL Pinning y como un atacante o pentester de aplicaciones móviles puede romper estas medidas, teniendo su dispositivo con acceso de administrador (root) o por último sin tener la necesidad de tener nuestro terminal con root o jailbreak.
 Para todo esto se aplicarán conocimientos de redes, reversing, android, iOS y algunas herramientas comunes para el análisis de las comunicaciones o hooking de procesos. Al final del taller, se verán explicaciones y ejemplos de cómo las medidas anteriores se pueden aplicar en dispositivos inteligentes como enchufes o bombillas.
@@ -95,14 +95,13 @@ En todo proceso de la auditoria de una aplicación es necesario hacer comprobaci
   - '' OWASP CTF'' 06/04/2018
 
 Traemos un nuevo evento de OWASP Sevilla, en este caso hablaremos de los CTF (Capture the Flag).
-En la primera parte, dos grandes especialistas del grupo Juanma [@ghostmanoficial] y Antoni [@AntoniCobos], finalista y ganador del CTF de la SECADMIN, además de otros muchos, nos harán una descripción de este tipo de pruebas, consejos para enfrentarte a un CTF
+En la primera parte, dos grandes especialistas del grupo **Juanma** [@ghostmanoficial] y **Antoni** [@AntoniCobos], finalista y ganador del CTF de la SECADMIN, además de otros muchos, nos harán una descripción de este tipo de pruebas, consejos para enfrentarte a un CTF
 En la segunda parte, nos plantearán una serie de pruebas básicas de un CTF para practicar in situ, así que llévate tu equipo para poder trabajar allí.
 
 
   - '' OWASP 10: Seguridad en un Mundo Conectado'' 10/05/2017
 
 En nuestro décimo encuentro trataremos la Seguridad del "Internet Of Things" (IOT). Tecnologías que nos facilitan mucho vivir continuamente conectados, pero que traen consigo una serie de problemas. El IOT hereda las brechas de seguridad de las diferentes tecnologías que la componen (Redes, Aplicaciones, Móvil y Cloud), por lo que es vital llevar a cabo un desarrollo seguro y tomar cuantas medidas sean necesarias para mitigar estas vulnerabilidades.
-
 
 **Ramón Salado** 
 **Juan José Domenech**
