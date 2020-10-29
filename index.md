@@ -67,6 +67,23 @@ piropos.
 
 # Eventos y reuniones
 
+
+  - '' OWASP CTF'' 06/04/2018
+
+Traemos un nuevo evento de OWASP Sevilla, en este caso hablaremos de los CTF (Capture the Flag).
+En la primera parte, dos grandes especialistas del grupo Juanma [@ghostmanoficial] y Antoni [@AntoniCobos], finalista y ganador del CTF de la SECADMIN, además de otros muchos, nos harán una descripción de este tipo de pruebas, consejos para enfrentarte a un CTF
+En la segunda parte, nos plantearán una serie de pruebas básicas de un CTF para practicar in situ, así que llévate tu equipo para poder trabajar allí.
+
+
+  - '' OWASP 10: Seguridad en un Mundo Conectado'' 10/05/2017
+
+En nuestro décimo encuentro trataremos la Seguridad del "Internet Of Things" (IOT). Tecnologías que nos facilitan mucho vivir continuamente conectados, pero que traen consigo una serie de problemas. El IOT hereda las brechas de seguridad de las diferentes tecnologías que la componen (Redes, Aplicaciones, Móvil y Cloud), por lo que es vital llevar a cabo un desarrollo seguro y tomar cuantas medidas sean necesarias para mitigar estas vulnerabilidades.
+
+
+**Ramón Salado** 
+**Juan José Domenech**
+
+
   - '' OWASP-Sevilla IX Edición'' 31/03/2017
 
 **Ramón Salado** nos habla de "ANONIMATOR" como ser anánimos en nuestra
