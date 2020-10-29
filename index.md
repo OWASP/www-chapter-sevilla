@@ -68,6 +68,30 @@ piropos.
 # Eventos y reuniones
 
 
+  - '' Seguros desde el Desarrollo '' 23/01/2020
+
+Seguros desde el Desarrollo
+Ciclo de vida del Desarrollo de Software Seguro
+Es importante tener presente la seguridad desde las etapas más tempranas del proceso de desarrollo y no dejarlas en un segundo plano. Veremos metodologías que nos ayudan a ello.
+Ansible for SecOps
+La automatización de procesos ayuda en la reducción de riesgos, minimiza los errores y aumenta la productividad. Os mostraremos como Ansible puede ayudarnos a interactuar con Firewalls, Servidores, Testeo de configuraciones e infraestructuras.
+
+**Carmelo Zubeldia**
+
+  - '' Analizando Comunicaciones en Dispositivos Moviles '' 07/03/2019
+
+Impartido por nuestro compañero ** Francisco José Ramírez Lopez** 
+En este taller se verá una breve introducción de como empezar a analizar comunicaciones que realizan las aplicaciones en dispositivos móviles. Para ello vamos a empezar conociendo OWASP mobile y luego en concreto alguno de los controles que nos centramos más en este taller. Iremos paso a paso, explicaremos que es una comunicación SSL y como se puede romper y a continuación iremos incrementando el nivel de dificultad para poder ver las comunicaciones.
+Esto implica conocer cómo funcionan las medidas de protección de SSL Pinning y como un atacante o pentester de aplicaciones móviles puede romper estas medidas, teniendo su dispositivo con acceso de administrador (root) o por último sin tener la necesidad de tener nuestro terminal con root o jailbreak.
+Para todo esto se aplicarán conocimientos de redes, reversing, android, iOS y algunas herramientas comunes para el análisis de las comunicaciones o hooking de procesos. Al final del taller, se verán explicaciones y ejemplos de cómo las medidas anteriores se pueden aplicar en dispositivos inteligentes como enchufes o bombillas.
+
+
+  - '' Intrumentacion dinamica en dispositivos moviles iOS y Android con Frida '' 05/12/2018
+
+En todo proceso de la auditoria de una aplicación es necesario hacer comprobaciones dinámicamente o en memoria para modificar ciertas funciones y acceder a ciertos datos que se cargan en la memoria. Para ello vamos a aprender el uso de la herramienta frida para conseguir ese análisis y intentar sacar toda la información posible a esa aplicación.
+@4r4nL y @pacoraml  
+
+
   - '' OWASP CTF'' 06/04/2018
 
 Traemos un nuevo evento de OWASP Sevilla, en este caso hablaremos de los CTF (Capture the Flag).
