@@ -1,7 +1,6 @@
 ---
 title: PastEvents
 layout:  null
-displaytext: Past Events
 tab: true
 order: 1
 tags: example-tag
