@@ -1,9 +1,10 @@
 ---
 title: PastEvents
-layout:  null
+displaytext: PastEvents
+layout: col-sidebar
 tab: true
 order: 1
-tags: example-tag
+tags: spain
 ---
 
 ## Past Events here:
