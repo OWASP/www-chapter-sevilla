@@ -10,45 +10,93 @@ region: Europe
 auto-migrated: 1
 
 ---
+![Owasp Sevilla](assets/images/event.png)
 
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+## OWASP Sevilla
 
-{front matter for this file}
+El capítulo de OWASP Sevilla tiene como objetivo formar una comunidad en torno a la seguridad de la información, OWASP es una organización sin ánimo de lucro a nivel internacional que brinda software, metodologías y documentación de rigor profesional bajo licencias Open Source.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+## Noticias
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+Para estar al día de nuestros eventos, visita nuestras redes sociales, tendrás la información más actualizada y podrás hacernos cualquier consulta.
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Estamos en contacto por chat en slack, puedes solicitar acceso a través de este [formulario](https://polar-caverns-90777.herokuapp.com/) , debes acceder al canal \#owasp-sevilla. Recuerda que esto es una organización sin ánimo de lucro y puedes participar de forma activa.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+Te animamos a que participes, las propuestas de mejora son siempre bienvenidas, cualquier duda que tengas hazla sin temor, recuerda que todos fuimos alguna vez novato.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+Nos tienes también en redes sociales:
+[Twitter](https://twitter.com/OWASP_Sevilla)
+[Facebook](https://m.facebook.com/groups/1697205410565061)
+[Eventbrite](https://www.eventbrite.es/o/owasp-sevilla-9895598677)
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
 
-```
-{info.md}
+## Organizadores
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+Los organizadores de OWASP Sevilla son:
 
-{leaders.md}
+  - [Carmelo Zubeldia](https://twitter.com/czubeldiam)
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+<!-- end list -->
 
--->
+  - [Ramón Salado](mailto:ramon.salado@owasp.org)
+
+<!-- end list -->
+
+  - [José Luis Núñez](mailto:jnunez@inetsec.es)
+
+<!-- end list -->
+
+  - [Juan Jose Domenech](mailto:juanjosedomenech@gmail.com)
+
+<!-- end list -->
+
+  - [Francisco José Ramírez López](https://twitter.com/paquitocadi)
+
+Los organizadores son voluntarios, no reciben ninguna retribución por
+las tareas que realizan (que no son pocas) ;-), pero aceptan cervezas y
+piropos.
+
+# Eventos y reuniones
+
+
+![Owasp Sevilla](assets/images/owaspReu.png)
+
+# Presentaciones y Documentación
+
+[Fotos de Eventos](https://drive.google.com/drive/folders/0B9pYnCCv7eCiODY0aGMySWNDYXM?usp=sharing)
+
+[Presentación Docker+XSS](https://drive.google.com/file/d/0B27X4cLUPgRbY3NNRnlNamtrUGc/view?usp=sharing)
+
+[FaradaySec](https://docs.google.com/presentation/d/1mIrBGp9nfFJol1Bzza70IgQhPp7TBvG77nOGbuPiy5M/edit?usp=sharing)
+
+[Guía de testing](https://drive.google.com/file/d/0B2zLtUkUNXhZa3BKbEZQdm53XzA/view?usp=sharing)
+
+[Sistemas de Recompensas(bugbounty)](https://drive.google.com/open?id=0B2zLtUkUNXhZRjdhbmVvS05Ga0k)
+
+[Hardening WordPress](https://es.slideshare.net/RamnSaladoLucena/owasp-6-seguridad-en-wordpress)
+
+[Anonimator](https://es.slideshare.net/RamnSaladoLucena/anonimator)
+
+[Sistemas Operativos para la privacidad y el anonimato](https://www.slideshare.net/mobile/jjdoms/owasp-sevilla-sistemas-operativos-privacidad-y-anonimato)
+
+[Top10 IOT](https://es.slideshare.net/RamnSaladoLucena/top-10-iot-owasp-hackbeers-sevilla)
+
+# Colaboradores
+
+[IES Isbilya Sevilla](http://www.isbilya.es)
+
+[IES Antonio Machado Sevilla](http://www.juntadeandalucia.es/averroes/centros-tic/41009071/helvia/sitio/index.cgi)
+
+[Bitnami](https://bitnami.com/)
+
+[Programa Minerva](https://www.programaminerva.es/)
+
+[El Cubo, Andalucía Open Future](https://andalucia.openfuture.org/)
+
+[Escuela Técnica Superior de Ingeniería Informática, Universidad de Sevilla](https://www.informatica.us.es/)
+
+<headertabs />
+
+Puedes saber más sobre OWASP, sus Principios y Valores y su Código Ético
+en el siguiente enlace: [About OWASP](About_The_Open_Web_Application_Security_Project "wikilink")
