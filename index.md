@@ -7,10 +7,12 @@ level: 0
 region: Europe
 
 ---
-![Owasp Sevilla](assets/images/event.png)
+
 
 
 ## OWASP Sevilla
+
+![Owasp Sevilla](assets/images/event.png)
 
 El capítulo de OWASP Sevilla tiene como objetivo formar una comunidad en torno a la seguridad de la información, OWASP es una organización sin ánimo de lucro a nivel internacional que brinda software, metodologías y documentación de rigor profesional bajo licencias Open Source.
 
