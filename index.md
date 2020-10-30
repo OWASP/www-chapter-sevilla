@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP Sevilla
 tags: Sevilla
+level: 0
 region: Europe
 
 ---
