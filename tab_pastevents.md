@@ -2,7 +2,7 @@
 title: PastEvents
 displaytext: Past Events
 tab: true
-order: 2
+order: 1
 tags: Past-Events
 ---
 
