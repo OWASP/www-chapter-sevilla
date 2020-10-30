@@ -2,12 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Sevilla
-tags: example-tag
+tags: Sevilla
 level: 0
-
 region: Europe
-
-auto-migrated: 1
 
 ---
 ![Owasp Sevilla](assets/images/event.png)
