@@ -1,10 +1,10 @@
 ---
-title: PastEvents
+title: pastevents
 displaytext: PastEvents
 layout: null
 tab: true
 order: 1
-tags: spain
+tags: Sevilla
 
 ---
 
