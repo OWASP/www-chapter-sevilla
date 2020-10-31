@@ -6,6 +6,7 @@
 * [Twitter](https://twitter.com/OWASP_Sevilla)
 * [Facebook](https://m.facebook.com/groups/1697205410565061)
 * [Eventbrite](https://www.eventbrite.es/o/owasp-sevilla-9895598677)
+* [Meetup](https://www.meetup.com/es/owasp-sevilla-meetup-group/)
 
 
 ### OWASP Information
