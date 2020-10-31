@@ -3,8 +3,9 @@ title: PastEvents
 displaytext: PastEvents
 layout: null
 tab: true
-order: 2
+order: 1
 tags: spain
+
 ---
 
 ## Past Events here:
