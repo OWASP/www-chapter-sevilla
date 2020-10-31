@@ -1,6 +1,3 @@
-<!--### Chapter Information
-* Chapter Region
-
 ### Social Links
 * [Photos](https://drive.google.com/drive/folders/0B9pYnCCv7eCiODY0aGMySWNDYXM?usp=sharing)
 
@@ -16,4 +13,3 @@
 * [Chapter Leader Handbook](https://www.owasp.org/index.php/Chapter_Leader_Handbook)
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
-
