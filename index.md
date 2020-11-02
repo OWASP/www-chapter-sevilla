@@ -99,4 +99,4 @@ piropos.
 <headertabs />
 
 Puedes saber más sobre OWASP, sus Principios y Valores y su Código Ético
-en el siguiente enlace: [About OWASP](About_The_Open_Web_Application_Security_Project "wikilink")
+en los siguientes enlaces: [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies) y [Chapter Handbook](https://owasp.org/www-policy/operational/chapter-handbook-existing.html) 
