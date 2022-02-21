@@ -35,7 +35,7 @@ Nos tienes también en redes sociales:
 
 Los organizadores de OWASP Sevilla son:
 
-  - [Carmelo Zubeldia](https://twitter.com/czubeldiam)
+  - [Juan Jose Domenech](mailto:juanjose.domenech@owasp.org)
 
 <!-- end list -->
 
@@ -43,15 +43,6 @@ Los organizadores de OWASP Sevilla son:
 
 <!-- end list -->
 
-  - [José Luis Núñez](mailto:jnunez@inetsec.es)
-
-<!-- end list -->
-
-  - Juan Jose Domenech
-
-<!-- end list -->
-
-  - Francisco José Ramírez López
 
 Los organizadores son voluntarios, no reciben ninguna retribución por
 las tareas que realizan (que no son pocas) ;-), pero aceptan cervezas y
