@@ -39,7 +39,7 @@ Los organizadores de OWASP Sevilla son:
 
 <!-- end list -->
 
-  - [Ramón Salado](mailto:ramon.salado@owasp.org)
+  - [Ramón Salado](mailto:ramon@owasp.org)
 
 <!-- end list -->
 
