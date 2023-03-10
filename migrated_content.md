@@ -67,7 +67,7 @@ piropos.
 
 # Eventos y reuniones
 
-  - '' OWASP-Sevilla X Edición'' 16/03/2023
+  - '' OWASP-Sevilla "Returns Edition"'' 16/03/2023
 
 **Paco Ramirez, Guillermo Mejías y Jesús Sánchez** Tratarán las herramientas más destacadas de OWASP
 para afrontar tareas de hacking y pentesting, ademas de analizar los cambios del último OWASP Top Ten web. 
