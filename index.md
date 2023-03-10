@@ -61,7 +61,7 @@ piropos.
 
 [FaradaySec](https://docs.google.com/presentation/d/1mIrBGp9nfFJol1Bzza70IgQhPp7TBvG77nOGbuPiy5M/edit?usp=sharing)
 
-[Guía de testing](https://drive.google.com/file/d/0B2zLtUkUNXhZa3BKbEZQdm53XzA/view?usp=sharing)
+[Guía de testing](https://github.com/ramsal/presentaciones/blob/master/OWASP%20Testing%20Guide.pdf)
 
 [Sistemas de Recompensas(bugbounty)](https://drive.google.com/open?id=0B2zLtUkUNXhZRjdhbmVvS05Ga0k)
 
@@ -76,14 +76,6 @@ piropos.
 # Colaboradores
 
 [IES Isbilya Sevilla](http://www.isbilya.es)
-
-[IES Antonio Machado Sevilla](http://www.juntadeandalucia.es/averroes/centros-tic/41009071/helvia/sitio/index.cgi)
-
-[Bitnami](https://bitnami.com/)
-
-[Programa Minerva](https://www.programaminerva.es/)
-
-[El Cubo, Andalucía Open Future](https://andalucia.openfuture.org/)
 
 [Escuela Técnica Superior de Ingeniería Informática, Universidad de Sevilla](https://www.informatica.us.es/)
 
