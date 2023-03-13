@@ -21,8 +21,6 @@ El capítulo de OWASP Sevilla tiene como objetivo formar una comunidad en torno 
 
 Para estar al día de nuestros eventos, visita nuestras redes sociales, tendrás la información más actualizada y podrás hacernos cualquier consulta.
 
-Estamos en contacto por chat en slack, puedes solicitar acceso a través de este [formulario](https://polar-caverns-90777.herokuapp.com/) , debes acceder al canal \#owasp-sevilla. Recuerda que esto es una organización sin ánimo de lucro y puedes participar de forma activa.
-
 Te animamos a que participes, las propuestas de mejora son siempre bienvenidas, cualquier duda que tengas hazla sin temor, recuerda que todos fuimos alguna vez novato.
 
 Nos tienes también en redes sociales:
