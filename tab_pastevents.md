@@ -9,8 +9,8 @@ tags: Sevilla
 ---
 
 ## Past Events:
-* [2023](#2020)
-* 2022
+* [2023](#2023)
+* [2022](#2022)
 * [2020](#2020)
 * [2019](#2019)
 * [2018](#2018)
@@ -22,12 +22,17 @@ tags: Sevilla
  
 ### 2023 ###
 --- 
-**OWASP-Sevilla "Returns Edition" ** 16/03/2023
+**OWASP-Sevilla Returns Edition** 16/03/2023
 
 **Paco Ramirez, Guillermo Mejías y Jesús Sánchez** Tratarán las herramientas más destacadas de OWASP
 para afrontar tareas de hacking y pentesting, ademas de analizar los cambios del último OWASP Top Ten web.   
 [Ubicación](https://goo.gl/maps/fjgUzLAK8AqMB2dF6)
 
+### 2022 ###
+--- 
+**Evento virtual con la comunidad** 10/02/2022
+
+**Evento virtual con la comunidad** 21/10/2022
 
 ### 2020 ###
 ---
