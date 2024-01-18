@@ -9,6 +9,7 @@ tags: Sevilla
 ---
 
 ## Past Events:
+* [2024](#2024)
 * [2023](#2023)
 * [2022](#2022)
 * [2020](#2020)
@@ -19,6 +20,19 @@ tags: Sevilla
 
 
 ![Owasp Sevilla](assets/images/owaspReu.png)  
+
+### 2024 ###
+--- 
+**CiberSotero** 19/01/2024
+En estas jornadas conocerán a diferentes empresas del sector y podrán conocer a diferentes profesionales que les darán un enfoque de su futuro profesional en el sector de la ciberseguridad
+
+**Paco Ramirez** Pentesting en Apps Móviles  
+**José Luis Núñez** Análisis de Malware  
+**Ramón Salado** WorkShop Threat Hunting  
+**Ismael Morales** Bug Bounty    
+
+[CiberSotero](https://iessoterohernandez.es/index.php/2024/01/16/cibersotero-organizacion-de-las-jornadas/)
+[Galería](https://drive.google.com/drive/folders/1LI-ID_LTw2SDuQCPcCaeyKuGElm2Gk-w?usp=sharing)
  
 ### 2023 ###
 --- 
