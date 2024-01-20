@@ -62,6 +62,7 @@ Es importante tener presente la seguridad desde las etapas más tempranas del pr
 Ansible for SecOps
 La automatización de procesos ayuda en la reducción de riesgos, minimiza los errores y aumenta la productividad. Os mostraremos como Ansible puede ayudarnos a interactuar con Firewalls, Servidores, Testeo de configuraciones e infraestructuras.
 **Carmelo Zubeldia**
+Evento desarrollada en la ETSII de la Universidad de Sevilla
 
 
 ### 2019 ###
@@ -88,7 +89,7 @@ En todo proceso de la auditoria de una aplicación es necesario hacer comprobaci
 Traemos un nuevo evento de OWASP Sevilla, en este caso hablaremos de los CTF (Capture the Flag).
 En la primera parte, dos grandes especialistas del grupo **Juanma** [@ghostmanoficial] y **Antoni** [@AntoniCobos], finalista y ganador del CTF de la SECADMIN, además de otros muchos, nos harán una descripción de este tipo de pruebas, consejos para enfrentarte a un CTF
 En la segunda parte, nos plantearán una serie de pruebas básicas de un CTF para practicar in situ, así que llévate tu equipo para poder trabajar allí.
-
+Evento desarrollada en la ETSII de la Universidad de Sevilla
 
 
 ### 2017 ###
@@ -97,6 +98,8 @@ En la segunda parte, nos plantearán una serie de pruebas básicas de un CTF par
 **OWASP 10: Seguridad en un Mundo Conectado** 10/05/2017
 
 En nuestro décimo encuentro trataremos la Seguridad del "Internet Of Things" (IOT). Tecnologías que nos facilitan mucho vivir continuamente conectados, pero que traen consigo una serie de problemas. El IOT hereda las brechas de seguridad de las diferentes tecnologías que la componen (Redes, Aplicaciones, Móvil y Cloud), por lo que es vital llevar a cabo un desarrollo seguro y tomar cuantas medidas sean necesarias para mitigar estas vulnerabilidades. **Ramón Salado** y **Juan José Domenech**
+Evento desarrollada en la ETSII de la Universidad de Sevilla
+
 
 
 **OWASP-Sevilla IX Edición** 31/03/2017
@@ -126,6 +129,7 @@ de **OWASP**.
 OWASP sevilla en esta edición especial de Betabeers Sevilla sobre
 seguridad, presentaron casos reales y realizaron una llamada a la acción
 para participar en OWASP Sevilla.
+Presentación dentro del evento de metacomunidad de BetaBeers.
 
 **OWASP-Sevilla VII Edición** 11/11/2016
 
@@ -134,17 +138,19 @@ diccionarios personalizado y realizó varias pruebas de concepto.
 **Francisco José Ramírez** continuó la sesión con su conferencia
 \#Androhack y nos mostró con ejemplos como vulnerar la seguridad en
 Android y algunas recomendaciones para que nuestros sistemas sean un
-poco más seguro. Increíble la poc\!.
+poco más seguro. Increíble la POC\!.
 
 **WCSevilla16**
 
 Nuestros compañeros **Juan Jose Domenech** y **Ramón Salado** hablaron largo y tendido de seguridad en Wordpress, plugins, configuraciones de servidor, doble autenticación. ¡Magistral\!
+El evento se enmarcaba dentro de la WordCamp Sevilla, uno de los eventos de WordPress con más afluencia y comunidad de España.  
 
 **OWASP-Sevilla VI Edición** 22/09/2016
 
 **Ramón Salado** nos habló sobre seguridad en **Wordpress**, monográfico
-muy interesante en el que nos dio directrices para asegurar esta
+ interesante en el que nos dio directrices para asegurar esta
 aplicación tan usada y extendida.
+Nos prestó sus instalaciones para el evento el Proyecto Minerva  
 
 **OWASP-Sevilla V Edición** 25/05/2016
 
@@ -152,6 +158,7 @@ aplicación tan usada y extendida.
 Owasp** (v.4), empezando desde el principio :-). Continúo la sesión
 **Carmelo Zubeldia** mostrando las características de **Faradaysec**
 (pentesting colaborativo).
+Nos prestó sus instalaciones para el evento el IES Isbilya.
 
 **OWASP-Sevilla IV Edición** 06/04/2016
 
@@ -159,22 +166,24 @@ Owasp** (v.4), empezando desde el principio :-). Continúo la sesión
 profundizando en la creación de reglas personalizadas y la detección de
 malware a través de directivas de Modsecurity. La sesión continuó con
 **José Manuel Aparicio González**, mostrando su experiencia en estos
-meses con los sistemas de recompensa (bugbounty).
+meses con los sistemas de recompensa (bugbounty).   
+Nos prestó sus instalaciones para el evento la empresa Bitnami.
 
 **OWASP-Sevilla III Edición** 10/03/2016
 
 **Pedro Berrocal** nos presentó **ModSecurity**, explicó su
-funcionamiento y configuraciones
+funcionamiento y configuraciones. Estuvimos haciendo varias pruebas sobre este mítico WAF.
 
 **OWASP-Sevilla II Edición** 11/02/2016
 
 **Carmelo Zubeldia** dio una introducción a **Docker** e instalamos un
-contenedor con [**bwapp**](http://www.itsecgames.com/), después continuó
-**José Luis Núñez** explicando el **proyecto OWASP** y dio un repaso
-sobre **XSS** y su funcionamiento/protección.
+contenedor con [**bwapp**](http://www.itsecgames.com/), estuvimos practicando sobre la plataforma del proyecto OWASP,
+después continuó **José Luis Núñez** explicando el **proyecto OWASP** y dio un repaso sobre **XSS** y su funcionamiento/protección.
+Como ya hicimos en la primera edición, finalizamos con un poco de networking y unas cervezas.
 
 **OWASP-Sevilla I Edición** 12/01/2016
 
 Nuestra primera edición fue bastante informal, presentamos el proyecto,
 empezamos a conocernos y nos tomamos unas cervezas, esto último se ha
-convertido en ritual :-)
+convertido en ritual :-) Carmelo Zubeldia y Ramón Salado organizan la primera quedada, a la que asisten miembros como José Luis Núñez, Juanjo Domenech o Juanma entre otros.  
+Nos prestó sus instalaciones para el evento el coworking workINcompany.
