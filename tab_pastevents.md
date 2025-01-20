@@ -25,15 +25,15 @@ tags: Sevilla
 ### 2025 ###
 --- 
 **CiberSotero** 17/01/2025
-En estas jornadas conocerán a diferentes empresas del sector y podrán conocer a diferentes profesionales que les darán un enfoque de su futuro profesional en el sector de la ciberseguridad
+En estas jornadas conocerán a diferentes empresas del sector y podrán conocer a diferentes profesionales que les darán un enfoque de su futuro profesional en el sector de la ciberseguridad   
 
 
-**José Luis Núñez** Análisis de Malware con IA
-**Ramón Salado**  Industrial cyberWarfare
-**Ismael Morales** Nos conocen al detalle: Testimonio desde la trinchera   
+**José Luis Núñez** Análisis de Malware con IA   
+**Ramón Salado**  Industrial cyberWarfare   
+**Ismael Morales** Nos conocen al detalle: Testimonio desde la trinchera     
 
-[CiberSotero](https://iessoterohernandez.es/index.php/2024/01/16/cibersotero-organizacion-de-las-jornadas/)
-[Galería](https://drive.google.com/drive/folders/1wuiEM6NBdgaGiG_G1_YcvSY4xvpHJYpO?usp=sharing)
+[CiberSotero](https://iessoterohernandez.es/index.php/2024/01/16/cibersotero-organizacion-de-las-jornadas/)   
+[Galería](https://drive.google.com/drive/folders/1wuiEM6NBdgaGiG_G1_YcvSY4xvpHJYpO?usp=sharing)   
 
 ### 2024 ###
 --- 
