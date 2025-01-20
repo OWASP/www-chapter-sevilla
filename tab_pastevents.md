@@ -33,7 +33,7 @@ En estas jornadas conocerán a diferentes empresas del sector y podrán conocer 
 **Ismael Morales** Nos conocen al detalle: Testimonio desde la trinchera   
 
 [CiberSotero](https://iessoterohernandez.es/index.php/2024/01/16/cibersotero-organizacion-de-las-jornadas/)
-[Galería](https://drive.google.com/drive/folders/1LI-ID_LTw2SDuQCPcCaeyKuGElm2Gk-w?usp=sharing)
+[Galería](https://drive.google.com/drive/folders/1wuiEM6NBdgaGiG_G1_YcvSY4xvpHJYpO?usp=sharing)
 
 ### 2024 ###
 --- 
