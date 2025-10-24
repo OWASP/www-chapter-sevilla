@@ -1,0 +1,24 @@
+leaders:
+  - name: Juan Jose Domenech
+    email: juanjose.domenech@owasp.org
+    github: juanjodomenech
+  - name: Ramon Salado
+    email: ramon.salado@owasp.org
+    github: ramsal
+location:
+  country: Spain
+  country_code: ES
+  region: Andalucía
+  city: Sevilla
+  latitude: 37.3886303
+  longitude: -5.9953403
+name: OWASP Sevilla
+repositories:
+  - name: www-chapter-sevilla
+    url: https://github.com/OWASP/www-chapter-sevilla
+    description: OWASP Foundation Web Repository
+tags:
+  - Sevilla
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-sevilla
